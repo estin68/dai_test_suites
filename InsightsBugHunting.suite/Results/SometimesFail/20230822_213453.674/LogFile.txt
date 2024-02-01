@@ -1,0 +1,4 @@
+﻿2023-08-22 21:34:53.679 +0800	START		Running SometimesFail.script
+2023-08-22 21:34:53.728 +0800	LogSuccess		This action is passing	4	on_sometimesfail	SometimesFail.script
+2023-08-22 21:34:53.744 +0800	EndTestCase		(Duration:"0.058", Errors:"0", Exceptions:"0", StartTime:"2023-08-22 21:34:53 +0800", Successes:"1", TestCase:"SometimesFail.script", Warnings:"0")
+2023-08-22 21:34:53.775 +0800	SUCCESS		Execution Time 0:00:00 SometimesFail.script

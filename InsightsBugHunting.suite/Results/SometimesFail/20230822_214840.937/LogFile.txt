@@ -1,0 +1,4 @@
+﻿2023-08-22 21:48:40.945 +0800	START		Running SometimesFail.script
+2023-08-22 21:48:41.003 +0800	LogError		This action is failing	6	on_sometimesfail	SometimesFail.script
+2023-08-22 21:48:41.030 +0800	EndTestCase		(Duration:"0.078", Errors:"1", Exceptions:"0", StartTime:"2023-08-22 21:48:40 +0800", Successes:"0", TestCase:"SometimesFail.script", Warnings:"0")
+2023-08-22 21:48:41.069 +0800	FAILURE		Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 SometimesFail.script

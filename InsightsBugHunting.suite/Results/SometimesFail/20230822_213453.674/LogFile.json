@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running SometimesFail.script",
+				"identifier": "START",
+				"timestamp": "2023-08-22 21:34:53.679 +0800"
+			},
+		{
+				"handlerName": "on_sometimesfail",
+				"timestamp": "2023-08-22 21:34:53.728 +0800",
+				"message": "This action is passing",
+				"scriptName": "SometimesFail.script",
+				"handlerLine": 4,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"0.058\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-08-22 21:34:53 +0800\", Successes:\"1\", TestCase:\"SometimesFail.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-08-22 21:34:53.744 +0800"
+			},
+		{
+				"message": "Execution Time 0:00:00 SometimesFail.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-08-22 21:34:53.775 +0800"
+			}
+	],
+	"createdTimestamp": "2023-08-22 21:34:53.683 +0800"
+}

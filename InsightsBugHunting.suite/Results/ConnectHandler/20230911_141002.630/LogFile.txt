@@ -1,0 +1,4 @@
+﻿2023-09-11 14:10:02.644 +0800	START		Running Connect.script
+2023-09-11 14:10:03.052 +0800	EndTestCase		(Duration:"0.401", Errors:"1", Exceptions:"0", StartTime:"2023-09-11 14:10:02 +0800", Successes:"0", TestCase:"Connect.script", Warnings:"0")
+2023-09-11 14:10:03.167 +0800	Error Screen	C:/Users/chiachin/OneDrive - Keysight Technologies/Documents/650CloudDAI/InsightsBugHunting.suite/Results/Connect/20230911_141002.630/Screen_Error.png	CapturedErrorScreenshot	DDE6AF6D-277C-5000-7BB4-96CF646C1FCD
+2023-09-11 14:10:03.172 +0800	FAILURE	Screen_Error.png	STMaxCallDepthExceeded: Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:00 Connect.script

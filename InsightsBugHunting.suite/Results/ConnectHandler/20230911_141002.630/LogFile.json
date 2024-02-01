@@ -1,0 +1,27 @@
+{
+	"entries": [
+		{
+				"message": "Running Connect.script",
+				"identifier": "START",
+				"timestamp": "2023-09-11 14:10:02.644 +0800"
+			},
+		{
+				"message": "(Duration:\"0.401\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-09-11 14:10:02 +0800\", Successes:\"0\", TestCase:\"Connect.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-09-11 14:10:03.052 +0800"
+			},
+		{
+				"image": "C:/Users/chiachin/OneDrive - Keysight Technologies/Documents/650CloudDAI/InsightsBugHunting.suite/Results/Connect/20230911_141002.630/Screen_Error.png",
+				"message": "CapturedErrorScreenshot",
+				"identifier": "Error Screen",
+				"timestamp": "2023-09-11 14:10:03.167 +0800"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STMaxCallDepthExceeded: Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:00 Connect.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-09-11 14:10:03.172 +0800"
+			}
+	],
+	"createdTimestamp": "2023-09-11 14:10:02.648 +0800"
+}

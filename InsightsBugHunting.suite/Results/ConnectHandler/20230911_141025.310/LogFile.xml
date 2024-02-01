@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="ConnectHandler_script" package="InsightsBugHunting.suite" timestamp="2023-09-11 14:10:25.310 +0800"
+ tests="1"  failures="1" errors="0" time="5.214000">
+  <properties>
+   <property name="RunDate" value="2023-09-11 14:10:25.310 +0800"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="ConnectHandler.script" assertions="1" status="failure"  time="5.205">
+    <failure type="FAILURE" message="Connection Failed: Unable to connect to Server:TutotialSUT on port:0\nInvalid hostname or IP address: No such host is known. \n -- Execution Time 0:00:05 ConnectHandler.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

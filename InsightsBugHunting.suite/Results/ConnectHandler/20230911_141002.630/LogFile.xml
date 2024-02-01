@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Connect_script" package="InsightsBugHunting.suite" timestamp="2023-09-11 14:10:02.630 +0800"
+ tests="1"  failures="1" errors="0" time="0.421000">
+  <properties>
+   <property name="RunDate" value="2023-09-11 14:10:02.630 +0800"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Connect.script" assertions="1" status="failure"  time="0.401">
+    <failure type="FAILURE" message="STMaxCallDepthExceeded: Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:00 Connect.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="ConnectHandler">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2023-09-11 14:08:59 +0800</FirstRun>
+  <LastRun>2023-09-11 14:10:25 +0800</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="SometimesFail">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2023-08-22 21:32:54 +0800</FirstRun>
+  <LastRun>2023-08-23 09:35:16 +0800</LastRun>
+  <TotalTimeOnSuccess>0.128000</TotalTimeOnSuccess>
+ </script>
+</statistics>
